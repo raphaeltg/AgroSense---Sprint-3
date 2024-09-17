@@ -3,6 +3,8 @@
 
 Vídeo Youtube: https://youtu.be/K4WR5P36Wwg
 
+Link para o Dataset no drive: https://drive.google.com/drive/folders/1o8wk3Suwj6DBKwFK3_ZbvXCnLlko0fyl?usp=sharing
+
 
 Contexto:                                        
 Esse dataset contém imagem dos seguintes alimentos:
